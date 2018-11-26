@@ -1,5 +1,15 @@
 {
+  "scripts": {
+    "test": "karma start"
+  },
   "dependencies": {
     "angular": "^1.7.3"
+  },
+  "devDependencies": {
+    "angular-mocks": "1.7.5",
+    "jasmine": "3.3.0",
+    "karma": "3.1.1",
+    "karma-chrome-launcher": "^2.2.0",
+    "karma-jasmine": "^2.0.1"
   }
 }
